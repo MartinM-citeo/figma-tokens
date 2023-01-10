@@ -1,12 +1,12 @@
 {
-  "source": ["tokens/**/*.json"],
+  "source": ["tokens/tokens-clean.json"],
   "platforms": {
-    "scss": {
-      "transformGroup": "scss",
-      "buildPath": "build/scss/",
+    "stylus": {
+      "transformGroup": "css",
+      "buildPath": "build/stylus/",
       "files": [{
-        "destination": "_variables.scss",
-        "format": "scss/variables"
+        "destination": "_variables.styl",
+        "format": "stylus/variables"
       }]
     }   
   }
