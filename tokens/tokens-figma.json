@@ -461,32 +461,32 @@
       }
     },
     "aqua": {
+      "aqua - Lighten 30": {
+        "value": "#99d6d6",
+        "type": "color"
+      },
       "aqua - Lighten 20": {
-        "value": "#aaf1d4",
+        "value": "#66c2c2",
         "type": "color"
       },
       "aqua - Lighten 10": {
-        "value": "#90e4c9",
+        "value": "#33adad",
         "type": "color"
       },
       "aqua": {
-        "value": "#6cd3bc",
+        "value": "#009999",
         "type": "color"
       },
       "aqua - Darken 10": {
-        "value": "#4dafa1",
+        "value": "#007a7a",
         "type": "color"
       },
       "aqua - Darken 20": {
-        "value": "#338c86",
+        "value": "#005c5c",
         "type": "color"
       },
       "aqua - Darken 30": {
-        "value": "#1f6568",
-        "type": "color"
-      },
-      "aqua - Darken 40": {
-        "value": "#0f3e44",
+        "value": "#003d3d",
         "type": "color"
       }
     },
